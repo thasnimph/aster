@@ -1,0 +1,21 @@
+# if abs(guess - n) <= 10:
+#         print("You're warm!")
+# elif abs(guess - n) <= 20:
+#         print("You're getting warmer.")
+# elif abs(guess - n) <= 30:
+#         print("You're cold.")
+
+# import random
+# n= random.randrange(1,100)
+# guess=int(input("Enter a Number"))
+# while(n!= guess):
+#     if(guess >=n):
+#             print("Warm")
+
+    
+#     elif(guess<=n):
+#           print("Cold")
+#     else:
+#           print('Make another guess')
+# else:
+#       print('you guessed right')  
